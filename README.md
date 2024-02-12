@@ -44,6 +44,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Pending...
 
+Ableton® and Live® are trademarks of [Ableton AG](https://www.ableton.com). We have no relationship with Ableton.
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/guyewhite/CSVto3Dstrings.svg?style=for-the-badge
